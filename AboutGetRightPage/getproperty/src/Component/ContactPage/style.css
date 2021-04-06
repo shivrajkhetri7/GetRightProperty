@@ -1,0 +1,14 @@
+.contatc-form-container{
+    background-color: turquoise;
+    padding: 1px 10px;
+}
+.form-control{
+    margin: 0px 0px 25px 0px;
+}
+
+@media screen and (max-width:767px)
+{
+    .contact-icons{
+        margin-top: 20px;
+    }
+}

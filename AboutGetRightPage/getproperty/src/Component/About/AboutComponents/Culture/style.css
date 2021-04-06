@@ -1,0 +1,31 @@
+.card-passion-getright{
+    border-radius: 0;
+    text-align: justify;
+    border: 0.5px solid black;
+    box-shadow: -1px 0px 25px 2px rgba(0,0,0,0.13);
+    -webkit-box-shadow: -1px 0px 25px 2px rgba(0,0,0,0.13);
+    -moz-box-shadow: -1px 0px 25px 2px rgba(0,0,0,0.13);
+    
+}
+.card-title-passion-getright{
+text-align: center;
+color: #5e23dc;
+background-color: #f4f4f4;
+}
+.card-text-passion-getright{
+    padding: 10px;
+    font-size: 14px;
+
+}
+.Passion-page-titles{
+    /* color: rgb(75, 216, 10); */
+    color: #5e23dc;
+    text-transform: uppercase;
+
+}
+.Passion-page-main-titles{
+text-align: center;
+color: #5e23dc;
+text-transform: uppercase;
+
+}

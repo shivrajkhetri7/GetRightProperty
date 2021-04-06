@@ -1,0 +1,8 @@
+.active_class{
+    color: #5e23dc;
+    border-bottom:1px solid red;
+   text-decoration: none;
+}
+.active_class:hover{
+   text-decoration: none;
+}

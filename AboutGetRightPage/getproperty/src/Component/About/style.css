@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&display=swap');
+.Jumbo-container{
+    background-color: transparent;
+    border-radius: 0;
+    border: 0.5px solid black;
+    box-shadow: -1px 0px 25px 2px rgba(0,0,0,0.13);
+    -webkit-box-shadow: -1px 0px 25px 2px rgba(0,0,0,0.13);
+    -moz-box-shadow: -1px 0px 25px 2px rgba(0,0,0,0.13);
+    
+}
+.container-fluid{
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+.about-jumbo-headin{
+    background-color: rgb(163, 162, 161);
+}
