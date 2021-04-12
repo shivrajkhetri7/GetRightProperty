@@ -1,0 +1,76 @@
+
+  .footer{
+    width: 100vw;
+    height: auto;
+  }
+  .footer-container-head{
+    background-color: rgb(28, 29, 29);
+    font-weight: 400;
+    font-size: 12px;
+    color: #9c9c9c;
+  }
+  .footer-second-section{
+    background-color:rgb(25, 25, 25);
+  }
+  .footer-second-section ul li{
+    list-style: none;
+    text-align: justify;
+    color: rgb(127, 127, 127);
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+
+  }
+  .footer-third-section{
+    background-color: black;
+  }
+  .footer-third-section ul li{
+    list-style: none;
+    text-align: justify;
+    color: rgb(127, 127, 127);
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+  
+  }
+  .footer-four-section{
+    background-color: black;
+  }
+  .footer__containerFour{
+    background-color: black;
+    text-align: center;
+    color: rgb(127, 127, 127);
+    font-weight: 400;
+    font-size: 12px;
+  }
+  .footer-parent-div{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+  }
+  .footer-sub-headding{
+    color: white;
+    font-weight: 400;
+    margin-left: -30px;
+    font-size: 14px;
+  }
+.footer-second-header{
+  color: white;
+
+}
+  @media screen and (max-width:776px){
+    .footer-second-section ul li{
+      text-align: justify;
+      line-height: 24px;
+      font-weight: 400;
+      font-size: auto;
+    }
+    .header__logoItemPart{
+      margin-right: 30px;
+    }
+  }
+    
+  
